@@ -34,7 +34,7 @@ google_analytics: "UA-90606906-3" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: "mdfaisalakbar" # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: "faisalcep" # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -91,8 +91,8 @@ defaults:
 author:
   name: Md Faisal Akbar
   picture: /images/Md-Faisal-Akbar.jpeg
-  email:
-  twitter:
+  email: faisalchem13@gmail.com
+  twitter: "faisalcep"
   links:
     - title: Facebook
       url: https://facebook.com/faisalcep
@@ -103,9 +103,14 @@ author:
     - title: GitHub
       url: https://github.com/faisalcep
       icon: fab fa-github-square
-
+    - title: stack Overflow
+      url: https://stackoverflow.com/users/9394506/md-faisal-akbar
+      icon: fab fa-stack-overflow
 # Footer Links
 footer_links:
+  - title: Mail
+    url: mailto: faisalchem13@gmail
+    icon: fas fa-fw fa-envelope-square
   - title: Facebook
     url: https://facebook.com/faisalcep
     icon: fab fa-facebook-square
