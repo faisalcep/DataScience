@@ -1,2 +1,2 @@
-# faisalcep.gihub.io/datascience
+# faisalcep.github.io/datascience
 A Simple Data Science Blog
