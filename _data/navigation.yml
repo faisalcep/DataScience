@@ -1,0 +1,16 @@
+# Sample site navigation links
+
+- title: Home
+  url: /
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+- title: About
+  url: https://faisalcep.github.io
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
