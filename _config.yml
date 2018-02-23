@@ -117,9 +117,6 @@ footer_links:
   - title: GitHub
     url: https://github.com/faisalcep
     icon: fab fa-github-square
-  - title: stack Overflow
-    url: https://stackoverflow.com/users/9394506/md-faisal-akbar
-    icon: fab fa-stack-overflow
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
