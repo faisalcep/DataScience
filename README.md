@@ -1,2 +1,2 @@
-# [datascience](faisalcep.github.io/datascience)
+# [datascience](http://dsfaisal.com/datascience)
 A Simple Data Science Blog
